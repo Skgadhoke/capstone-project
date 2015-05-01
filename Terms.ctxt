@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=void\ setCoef(double)
+comment1.params=
+comment1.target=double\ getDeg()
+comment2.params=
+comment2.target=double\ getCoef()
+comment3.params=c\ d
+comment3.target=Terms(double,\ double)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

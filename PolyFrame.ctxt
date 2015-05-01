@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PolyFrame()
+comment0.text=\ \r\nconstructor\r\ncreates\ the\ frame\ using\ a\ group\ layout,\ JLabels,\ JButtons,\ JCheckBoxes,\ and\ \r\nJTextFields\r\nalso\ uses\ action\ listeners\ \r\n
+comment1.params=
+comment1.target=void\ initialize()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\ \r\nactionPerformed()\r\nreturn\ type\:\ void\r\nparam\:\ ActionEvent\ e\r\n\ This\ allows\ the\ user\ to\ choose\ what\ they\ want\ to\ see\r\n\ calculated\ based\ on\ the\ given\ equation\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\ \r\nmain()\r\nruns\ the\ GUI\ application\r\nsample\ polyinomials\:\r\n\ x^3-2x^2-5x+6\r\n\ -2x^3-2x^2-5x+6\r\n\ -x^3-2x^2-5x-4x+6\r\n\ x^2-4x-2-6\r\n\ x^2-x-2\r\n\ 2x+4\r\n\ x+1\r\n
+numComments=4
